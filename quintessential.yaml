@@ -1,0 +1,11 @@
+Name: OMComments
+Version: 0.0.1
+#Icon: mod_icon.png
+Title: OMComments
+Desc: A quick mod that adds comments.
+DLL: "OMComments/bin/Debug/net452/OMComments.dll"
+Dependencies:
+- Name: Quintessential
+  Version: 0.3.0
+#OptionalDependencies
+#Mappings:
