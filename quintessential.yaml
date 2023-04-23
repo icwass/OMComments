@@ -1,7 +1,7 @@
 Name: OMComments
 Version: 0.0.1
 Title: OMComments
-Desc: A mod that adds a Comment glyph.
+Desc: A mod that adds the Comment glyph.
 DLL: "OMComments/bin/Debug/net452/OMComments.dll"
 Dependencies:
 - Name: Quintessential
